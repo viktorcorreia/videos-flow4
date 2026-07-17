@@ -1,0 +1,46 @@
+{
+  "order": 10,
+  "score": 130,
+  "productId": "1731300956302051050",
+  "name": "Calça Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparência Cintura Alta Confortável Fitness Apertado",
+  "price": "R$27.22",
+  "commission": 12,
+  "growth": -10.5,
+  "creatorConversion": 26.08,
+  "sold": 80440,
+  "revenue": 2140000,
+  "videoRevenue": 1310000,
+  "liveRevenue": 824740,
+  "image": "https://img.kalocdn.com/tiktok.product/1731300956302051050/cover.png",
+  "videoCovers": [
+    "https://img.kalocdn.com/tiktok.video/7638721302446083336/cover.png",
+    "https://img.kalocdn.com/tiktok.video/7636849394784013575/cover.png",
+    "https://img.kalocdn.com/tiktok.video/7633166314051292423/cover.png"
+  ],
+  "kalodataUrl": "https://www.kalodata.com/product/detail?id=1731300956302051050&language=en-US&currency=BRL&region=BR",
+  "tiktokUrl": "https://shop.tiktok.com/view/product/1731300956302051050?region=BR",
+  "niche": "Acessorio",
+  "localFolder": "C:\\Users\\Usuario\\Documents\\achadinhos\\media-reference\\kalodata-30-produtos-maya\\10 - Calca Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparencia Cintura",
+  "downloadedAssets": [
+    {
+      "ok": true,
+      "filePath": "C:\\Users\\Usuario\\Documents\\achadinhos\\media-reference\\kalodata-30-produtos-maya\\10 - Calca Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparencia Cintura\\produto-1731300956302051050.png",
+      "bytes": 49170
+    },
+    {
+      "ok": true,
+      "filePath": "C:\\Users\\Usuario\\Documents\\achadinhos\\media-reference\\kalodata-30-produtos-maya\\10 - Calca Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparencia Cintura\\video-cover-1.png",
+      "bytes": 104367
+    },
+    {
+      "ok": true,
+      "filePath": "C:\\Users\\Usuario\\Documents\\achadinhos\\media-reference\\kalodata-30-produtos-maya\\10 - Calca Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparencia Cintura\\video-cover-2.png",
+      "bytes": 93797
+    },
+    {
+      "ok": true,
+      "filePath": "C:\\Users\\Usuario\\Documents\\achadinhos\\media-reference\\kalodata-30-produtos-maya\\10 - Calca Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparencia Cintura\\video-cover-3.png",
+      "bytes": 1360651
+    }
+  ]
+}

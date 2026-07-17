@@ -1,0 +1,24 @@
+# segredos
+.env
+*.env
+.env.*
+
+# vídeos (todo o material bruto/gerado/editado)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.m4v
+
+# lixo comum
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# sessão/cache do claude
+.remember/
+.claude/
+.playwright-mcp/

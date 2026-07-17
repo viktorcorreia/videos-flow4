@@ -1,0 +1,145 @@
+{
+  "language_code": "por",
+  "language_probability": 0.7678216695785522,
+  "text": "R$27 numa legging. J\u00e1 esperava ver tudo atrav\u00e9s dela",
+  "words": [
+    {
+      "text": "R$27",
+      "start": 0.179,
+      "end": 2.059,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.1451452926773129
+    },
+    {
+      "text": " ",
+      "start": 2.059,
+      "end": 2.119,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -4.31528314948082e-05
+    },
+    {
+      "text": "numa",
+      "start": 2.119,
+      "end": 2.379,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -4.31528314948082e-05
+    },
+    {
+      "text": " ",
+      "start": 2.379,
+      "end": 2.399,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.000395815703086555
+    },
+    {
+      "text": "legging.",
+      "start": 2.399,
+      "end": 3.0,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.0008671450774073719
+    },
+    {
+      "text": " ",
+      "start": 3.0,
+      "end": 3.939,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -5.006664650863968e-05
+    },
+    {
+      "text": "J\u00e1",
+      "start": 3.939,
+      "end": 4.039,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -5.006664650863968e-05
+    },
+    {
+      "text": " ",
+      "start": 4.039,
+      "end": 4.119,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.00011860620725201443
+    },
+    {
+      "text": "esperava",
+      "start": 4.119,
+      "end": 4.659,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -7.506765149400962e-05
+    },
+    {
+      "text": " ",
+      "start": 4.659,
+      "end": 4.739,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -4.768370445162873e-07
+    },
+    {
+      "text": "ver",
+      "start": 4.739,
+      "end": 5.42,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -4.768370445162873e-07
+    },
+    {
+      "text": " ",
+      "start": 5.42,
+      "end": 5.44,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -2.3841830625315197e-06
+    },
+    {
+      "text": "tudo",
+      "start": 5.44,
+      "end": 6.159,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -2.3841830625315197e-06
+    },
+    {
+      "text": " ",
+      "start": 6.159,
+      "end": 6.239,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -3.564294092939235e-05
+    },
+    {
+      "text": "atrav\u00e9s",
+      "start": 6.239,
+      "end": 6.739,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -3.564294092939235e-05
+    },
+    {
+      "text": " ",
+      "start": 6.739,
+      "end": 6.759,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -7.152555099310121e-07
+    },
+    {
+      "text": "dela",
+      "start": 6.759,
+      "end": 7.119,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -7.152555099310121e-07
+    }
+  ],
+  "transcription_id": "ybSag5MwS8JAR8LEyfA7",
+  "audio_duration_secs": 8.0
+}
