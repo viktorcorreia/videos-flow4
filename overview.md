@@ -47,6 +47,27 @@ O material de origem já vem com a Maya falando (áudio nativo com narração do
 
 Se/quando precisarmos de overlay animado: **HyperFrames é a escolha padrão** (mais leve, checagem determinística de frame, ideal pra cards simples de preço/CTA) — **Remotion só entraria** se precisássemos de lógica de componente React reutilizável entre muitos vídeos (não é o caso hoje, catálogo de produtos é editado um a um).
 
+## Scripts (copiados pra dentro do repo)
+
+Os helpers da skill `video-use` que usamos de fato foram copiados pra `tools/video-use/` (a skill em si continua instalada globalmente em `~/.claude/skills/video-use/` e é usada por todos os projetos — a cópia aqui é só pra este repo ficar autossuficiente/reproduzível):
+
+```
+tools/video-use/
+  ├── SKILL.md              ← instruções completas do workflow
+  ├── README.md / install.md
+  ├── pyproject.toml
+  ├── .env.example
+  └── helpers/
+      ├── transcribe.py          ← transcrição single-file (ElevenLabs Scribe)
+      ├── transcribe_batch.py    ← transcrição paralela (4 workers)
+      ├── pack_transcripts.py    ← gera takes_packed.md
+      ├── timeline_view.py       ← filmstrip + waveform pra drill-down visual
+      ├── render.py              ← extract por segmento → concat → overlays → legendas
+      └── grade.py               ← grade de cor via ffmpeg
+```
+
+A skill `watch` (usada pra QC visual/detecção de glitch) **não tem arquivo-fonte acessível em disco** — é carregada dinamicamente por um plugin, sem SKILL.md solto encontrável. Não foi possível copiá-la.
+
 ## Ferramentas externas (APIs)
 
 - **ElevenLabs**
