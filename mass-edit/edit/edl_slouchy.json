@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "sources": {
+    "c1": "C:\\Users\\Usuario\\Documents\\videos-flow4\\mass-edit\\hf_20260724_014536_40ea87c8-aa88-4053-a2ae-ca9236e49c2a.mp4",
+    "c2": "C:\\Users\\Usuario\\Documents\\videos-flow4\\mass-edit\\hf_20260724_012610_658af98d-181a-4a58-9d06-66dfdb91e728.mp4",
+    "c3": "C:\\Users\\Usuario\\Documents\\videos-flow4\\mass-edit\\hf_20260724_013623_30e8974c-b98c-44ec-a44d-db95280cc8ff.mp4"
+  },
+  "ranges": [
+    {
+      "source": "c1",
+      "start": 0.1,
+      "end": 2.1,
+      "beat": "HOOK-PRECO",
+      "quote": "",
+      "reason": "b-roll continuo, corte por duracao da locucao"
+    },
+    {
+      "source": "c2",
+      "start": 0.1,
+      "end": 6.51,
+      "beat": "ACABAMENTO/OBJECAO",
+      "quote": "",
+      "reason": "b-roll continuo, corte por duracao da locucao"
+    },
+    {
+      "source": "c3",
+      "start": 0.1,
+      "end": 8.1,
+      "beat": "CTA",
+      "quote": "",
+      "reason": "b-roll continuo, corte por duracao da locucao"
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "total_duration_s": 16.41
+}

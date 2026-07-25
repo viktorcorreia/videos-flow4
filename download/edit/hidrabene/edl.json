@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sources": {
+    "hook": "C:/Users/Usuario/Documents/videos-flow4/download/Woman_holding_sunscreen_tube_202607200327.mp4",
+    "meio": "C:/Users/Usuario/Documents/videos-flow4/download/Woman_applying_sunscreen_on_face_202607200327.mp4",
+    "fecho": "C:/Users/Usuario/Documents/videos-flow4/download/Woman_touching_cheek_smiling_202607200327.mp4"
+  },
+  "ranges": [
+    {"source": "hook", "start": 0.13, "end": 7.15,
+     "beat": "HOOK", "quote": "Sabe aquele protetor que protege de tudo e deixa a pele sequinha? O Hydrabene FPS setenta é incrível.",
+     "reason": "Complete intro, music comes after fala ends at 7.10, pad 50ms before first word"},
+    {"source": "meio", "start": 0.93, "end": 7.43,
+     "beat": "BENEFIT", "quote": "Ele uniformiza sem cor, tem toque matte e protege contra a luz do celular. É leve e refrescante.",
+     "reason": "Full middle explanation, pad 50ms on edges"},
+    {"source": "fecho", "start": 0.29, "end": 6.87,
+     "beat": "CLOSE", "quote": "Não obstrui os poros, é livre de óleo e perfeito pra usar sempre. Você vai amar esse resultado.",
+     "reason": "Strong close with satisfaction expression, pad 50ms on edges"}
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitles": null,
+  "total_duration_s": 20.55
+}

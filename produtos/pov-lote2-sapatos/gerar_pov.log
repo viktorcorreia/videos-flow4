@@ -1,0 +1,78 @@
+[03:04:03] 09-sandalia-nuvem/pov_hero ok=True 62s
+[veo] modelo=veo-3.1-fast-generate-001 aspect=9:16 dur=8s audio=True res=720p resize=crop quality=default samples=1 modo=i2v (produto.png)
+[veo] negativePrompt: membros deformados, dedos extras, maos distorcidas, mao duplicada, mao fantasma,
+[gcp] 403 na conta radiant-oven-391916 (quota_exceeded) — tentando fallback...
+[gcp] trocando para: massive-dryad-497003-h2 (SA: vertex-sa-vikatohugo.json)
+[veo] operation: projects/massive-dryad-497003-h2/locations/us-central1/publishers/google/models/veo-3.1-fast-generate-001/operations/e5b81020-3a61-4ce8-9eac-2fd0f01343f2  (poll...)
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] OK -> C:\Users\Usuario\Documents\videos-flow4\produtos\pov-lote2-sapatos\09-sandalia-nuvem\geracoes\pov_hero.mp4 (4270 KB)
+[veo] custo estimado: ~$0.84
+
+[03:05:04] 09-sandalia-nuvem/pov_detalhe ok=True 61s
+[veo] modelo=veo-3.1-fast-generate-001 aspect=9:16 dur=8s audio=True res=720p resize=crop quality=default samples=1 modo=i2v (produto.png)
+[veo] negativePrompt: membros deformados, dedos extras, maos distorcidas, mao duplicada, mao fantasma,
+[gcp] 403 na conta radiant-oven-391916 (quota_exceeded) — tentando fallback...
+[gcp] trocando para: massive-dryad-497003-h2 (SA: vertex-sa-vikatohugo.json)
+[veo] operation: projects/massive-dryad-497003-h2/locations/us-central1/publishers/google/models/veo-3.1-fast-generate-001/operations/30ac39e2-9964-4d67-bb76-c5b35b13d02c  (poll...)
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] OK -> C:\Users\Usuario\Documents\videos-flow4\produtos\pov-lote2-sapatos\09-sandalia-nuvem\geracoes\pov_detalhe.mp4 (7468 KB)
+[veo] custo estimado: ~$0.84
+
+[03:06:05] 09-sandalia-nuvem/pov_charms ok=True 61s
+[veo] modelo=veo-3.1-fast-generate-001 aspect=9:16 dur=8s audio=True res=720p resize=crop quality=default samples=1 modo=i2v (produto.png)
+[veo] negativePrompt: membros deformados, dedos extras, maos distorcidas, mao duplicada, mao fantasma,
+[gcp] 403 na conta radiant-oven-391916 (quota_exceeded) — tentando fallback...
+[gcp] trocando para: massive-dryad-497003-h2 (SA: vertex-sa-vikatohugo.json)
+[veo] operation: projects/massive-dryad-497003-h2/locations/us-central1/publishers/google/models/veo-3.1-fast-generate-001/operations/37787efa-9342-4663-9478-03411af4c690  (poll...)
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] OK -> C:\Users\Usuario\Documents\videos-flow4\produtos\pov-lote2-sapatos\09-sandalia-nuvem\geracoes\pov_charms.mp4 (4413 KB)
+[veo] custo estimado: ~$0.84
+
+[03:07:05] 14-bota-domidona/pov_hero ok=True 60s
+[veo] modelo=veo-3.1-fast-generate-001 aspect=9:16 dur=8s audio=True res=720p resize=crop quality=default samples=1 modo=i2v (produto.png)
+[veo] negativePrompt: membros deformados, dedos extras, maos distorcidas, mao duplicada, mao fantasma,
+[gcp] 403 na conta radiant-oven-391916 (quota_exceeded) — tentando fallback...
+[gcp] trocando para: massive-dryad-497003-h2 (SA: vertex-sa-vikatohugo.json)
+[veo] operation: projects/massive-dryad-497003-h2/locations/us-central1/publishers/google/models/veo-3.1-fast-generate-001/operations/a24cc1f1-09ec-4486-abf4-aa62e01dc157  (poll...)
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] OK -> C:\Users\Usuario\Documents\videos-flow4\produtos\pov-lote2-sapatos\14-bota-domidona\geracoes\pov_hero.mp4 (2817 KB)
+[veo] custo estimado: ~$0.84
+
+[03:08:05] 14-bota-domidona/pov_detalhe ok=True 60s
+[veo] modelo=veo-3.1-fast-generate-001 aspect=9:16 dur=8s audio=True res=720p resize=crop quality=default samples=1 modo=i2v (produto.png)
+[veo] negativePrompt: membros deformados, dedos extras, maos distorcidas, mao duplicada, mao fantasma,
+[gcp] 403 na conta radiant-oven-391916 (quota_exceeded) — tentando fallback...
+[gcp] trocando para: massive-dryad-497003-h2 (SA: vertex-sa-vikatohugo.json)
+[veo] operation: projects/massive-dryad-497003-h2/locations/us-central1/publishers/google/models/veo-3.1-fast-generate-001/operations/ce78734e-35ed-488a-9567-477511a6e8a7  (poll...)
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] OK -> C:\Users\Usuario\Documents\videos-flow4\produtos\pov-lote2-sapatos\14-bota-domidona\geracoes\pov_detalhe.mp4 (3106 KB)
+[veo] custo estimado: ~$0.84
+
+[03:09:05] 14-bota-domidona/pov_uso ok=True 60s
+[veo] modelo=veo-3.1-fast-generate-001 aspect=9:16 dur=8s audio=True res=720p resize=crop quality=default samples=1 modo=i2v (produto.png)
+[veo] negativePrompt: membros deformados, dedos extras, maos distorcidas, mao duplicada, mao fantasma,
+[gcp] 403 na conta radiant-oven-391916 (quota_exceeded) — tentando fallback...
+[gcp] trocando para: massive-dryad-497003-h2 (SA: vertex-sa-vikatohugo.json)
+[veo] operation: projects/massive-dryad-497003-h2/locations/us-central1/publishers/google/models/veo-3.1-fast-generate-001/operations/09500052-9158-4e19-91f3-7a8a4ea68a96  (poll...)
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] OK -> C:\Users\Usuario\Documents\videos-flow4\produtos\pov-lote2-sapatos\14-bota-domidona\geracoes\pov_uso.mp4 (2874 KB)
+[veo] custo estimado: ~$0.84
+

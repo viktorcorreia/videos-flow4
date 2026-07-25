@@ -1,0 +1,289 @@
+{
+  "language_code": "por",
+  "language_probability": 0.9923542141914368,
+  "text": "Ele uniformiza sem cor, tem toque matte e protege contra a luz do celular. \u00c9 leve e refrescante",
+  "words": [
+    {
+      "text": "Ele",
+      "start": 0.979,
+      "end": 1.12,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -3.7431014789035544e-05
+    },
+    {
+      "text": " ",
+      "start": 1.12,
+      "end": 1.179,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -3.814689989667386e-06
+    },
+    {
+      "text": "uniformiza",
+      "start": 1.179,
+      "end": 1.86,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -7.641269439773168e-06
+    },
+    {
+      "text": " ",
+      "start": 1.86,
+      "end": 1.879,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -2.3841830625315197e-06
+    },
+    {
+      "text": "sem",
+      "start": 1.879,
+      "end": 2.139,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -2.3841830625315197e-06
+    },
+    {
+      "text": " ",
+      "start": 2.139,
+      "end": 2.159,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -2.145764938177308e-06
+    },
+    {
+      "text": "cor,",
+      "start": 2.159,
+      "end": 2.399,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.0281649451826524e-05
+    },
+    {
+      "text": " ",
+      "start": 2.399,
+      "end": 2.539,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.0728830375228426e-06
+    },
+    {
+      "text": "tem",
+      "start": 2.539,
+      "end": 2.74,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.0728830375228426e-06
+    },
+    {
+      "text": " ",
+      "start": 2.74,
+      "end": 2.74,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.2159273865108844e-05
+    },
+    {
+      "text": "toque",
+      "start": 2.74,
+      "end": 2.98,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.2159273865108844e-05
+    },
+    {
+      "text": " ",
+      "start": 2.98,
+      "end": 3.099,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.16140547394752502
+    },
+    {
+      "text": "matte",
+      "start": 3.099,
+      "end": 3.539,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.16140547394752502
+    },
+    {
+      "text": " ",
+      "start": 3.539,
+      "end": 3.579,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -7.390948667307384e-06
+    },
+    {
+      "text": "e",
+      "start": 3.579,
+      "end": 3.659,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -7.390948667307384e-06
+    },
+    {
+      "text": " ",
+      "start": 3.659,
+      "end": 3.699,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.00016819016309455037
+    },
+    {
+      "text": "protege",
+      "start": 3.699,
+      "end": 4.139,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.00016819016309455037
+    },
+    {
+      "text": " ",
+      "start": 4.139,
+      "end": 4.159,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.9907753085135482e-05
+    },
+    {
+      "text": "contra",
+      "start": 4.159,
+      "end": 4.359,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.9907753085135482e-05
+    },
+    {
+      "text": " ",
+      "start": 4.359,
+      "end": 4.38,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -7.390948667307384e-06
+    },
+    {
+      "text": "a",
+      "start": 4.38,
+      "end": 4.44,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -7.390948667307384e-06
+    },
+    {
+      "text": " ",
+      "start": 4.44,
+      "end": 4.46,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.0002320735511602834
+    },
+    {
+      "text": "luz",
+      "start": 4.46,
+      "end": 4.619,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.0002320735511602834
+    },
+    {
+      "text": " ",
+      "start": 4.619,
+      "end": 4.659,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": 0.0
+    },
+    {
+      "text": "do",
+      "start": 4.659,
+      "end": 4.759,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 4.759,
+      "end": 4.779,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -7.629365427419543e-06
+    },
+    {
+      "text": "celular.",
+      "start": 4.779,
+      "end": 5.679,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -9.760197144714766e-06
+    },
+    {
+      "text": " ",
+      "start": 5.679,
+      "end": 5.739,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -8.34461570775602e-06
+    },
+    {
+      "text": "\u00c9",
+      "start": 5.739,
+      "end": 5.859,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -8.34461570775602e-06
+    },
+    {
+      "text": " ",
+      "start": 5.859,
+      "end": 5.899,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -2.622600959512056e-06
+    },
+    {
+      "text": "leve",
+      "start": 5.9,
+      "end": 6.319,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -2.622600959512056e-06
+    },
+    {
+      "text": " ",
+      "start": 6.319,
+      "end": 6.439,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.1920928244535389e-07
+    },
+    {
+      "text": "e",
+      "start": 6.44,
+      "end": 6.46,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.1920928244535389e-07
+    },
+    {
+      "text": " ",
+      "start": 6.46,
+      "end": 6.48,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -2.3245540432981215e-05
+    },
+    {
+      "text": "refrescante",
+      "start": 6.48,
+      "end": 7.379,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.00021296104618655093
+    }
+  ],
+  "transcription_id": "3L6Lr28Yo15RmA7pbLRI",
+  "audio_duration_secs": 8.0
+}

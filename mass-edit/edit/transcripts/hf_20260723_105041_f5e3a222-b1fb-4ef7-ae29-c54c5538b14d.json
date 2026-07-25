@@ -1,0 +1,17 @@
+{
+  "language_code": "eng",
+  "language_probability": 0.4680599868297577,
+  "text": "[on-hold music]",
+  "words": [
+    {
+      "text": "[on-hold music]",
+      "start": 0.079,
+      "end": 7.159,
+      "type": "audio_event",
+      "speaker_id": "speaker_0",
+      "logprob": -0.03900047681215386
+    }
+  ],
+  "transcription_id": "GB9Mjnmui3OaBKYNcWkW",
+  "audio_duration_secs": 8.096
+}

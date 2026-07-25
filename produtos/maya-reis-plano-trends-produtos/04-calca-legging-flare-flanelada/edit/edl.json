@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sources": {
+    "clip1": "C:/Users/Usuario/Documents/videos-flow4/produtos/maya-reis-plano-trends-produtos/04-calca-legging-flare-flanelada/geracoes/1.mp4",
+    "clip2": "C:/Users/Usuario/Documents/videos-flow4/produtos/maya-reis-plano-trends-produtos/04-calca-legging-flare-flanelada/geracoes/2.mp4",
+    "clip3": "C:/Users/Usuario/Documents/videos-flow4/produtos/maya-reis-plano-trends-produtos/04-calca-legging-flare-flanelada/geracoes/Woman_shrugging_in_studio_1080p_202607170929.mp4"
+  },
+  "ranges": [
+    {"source": "clip1", "start": 0.12, "end": 7.18,
+     "beat": "HOOK", "quote": "R$27 numa legging. Já esperava ver tudo através dela.",
+     "reason": "Full sceptical hook, clean word boundaries at start (R$27) and end (dela)."},
+    {"source": "clip2", "start": 0.0, "end": 6.38,
+     "beat": "REBATE", "quote": "Olha a cintura alta, o tecido flanelado. Não transparece nem contra a luz.",
+     "reason": "Complete benefit pitch, cut before incomplete 'E esse' word at 7.90. Pad +50ms after luz. to 6.38."},
+    {"source": "clip3", "start": 0.20, "end": 5.80,
+     "beat": "CTA", "quote": "Link fixado no perfil. Preço a quanto? Preço de um lanche.",
+     "reason": "Full CTA with price close and applause. Pad 200ms pre-roll, 50ms post-applause."}
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitles": null,
+  "total_duration_s": 19.36
+}

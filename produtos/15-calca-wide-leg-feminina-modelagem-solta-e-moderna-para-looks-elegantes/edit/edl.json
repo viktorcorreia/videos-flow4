@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sources": {
+    "achadinho": "C:/Users/Usuario/Documents/videos-flow4/produtos/15-calca-wide-leg-feminina-modelagem-solta-e-moderna-para-looks-elegantes/geracoes/video-01-achadinho.mp4",
+    "prova": "C:/Users/Usuario/Documents/videos-flow4/produtos/15-calca-wide-leg-feminina-modelagem-solta-e-moderna-para-looks-elegantes/geracoes/video-02-prova-look.mp4",
+    "detalhe": "C:/Users/Usuario/Documents/videos-flow4/produtos/15-calca-wide-leg-feminina-modelagem-solta-e-moderna-para-looks-elegantes/geracoes/video-03-detalhe-produto.mp4"
+  },
+  "ranges": [
+    {"source": "achadinho", "start": 0.0, "end": 7.85,
+     "beat": "HOOK", "quote": "Quer cara de rica pagando preço de achadinho?",
+     "reason": "Full frase do vídeo, trimmed trailing silence (~0.15s), ended at word boundary 'estoque'"},
+    {"source": "prova", "start": 0.0, "end": 7.75,
+     "beat": "PROVA", "quote": "Quer uma calça elegante que não aperta e deixa o look alinhado?",
+     "reason": "Full frase, trimmed trailing dead air (~0.25s), ended at 'achado'"},
+    {"source": "detalhe", "start": 0.0, "end": 7.80,
+     "beat": "DETALHE_CTA", "quote": "Olha de perto esse acabamento. O tecido cai bonito, não fica transparente e o cós deixa tudo mais alinhado. Eu deixei no carrinho",
+     "reason": "Full frase, small tail pad (~0.2s silence removed), ended at 'carrinho'"}
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitles": null,
+  "total_duration_s": 23.40
+}

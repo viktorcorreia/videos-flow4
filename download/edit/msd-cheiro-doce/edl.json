@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sources": {
+    "hook": "C:/Users/Usuario/Documents/videos-flow4/download/Woman_smelling_air_202607200327.mp4",
+    "meio": "C:/Users/Usuario/Documents/videos-flow4/download/Woman_spraying_mist_on_shoulder_202607200327.mp4",
+    "cta": "C:/Users/Usuario/Documents/videos-flow4/download/Woman_speaking_about_perfume_202607200327.mp4"
+  },
+  "ranges": [
+    {"source": "hook", "start": 1.05, "end": 9.58,
+     "beat": "HOOK", "quote": "Finalmente achei um body splash que tem cheiro de doce de verdade, mas não é aquele enjoado que dá dor de cabeça",
+     "reason": "Full hook phrase, pad 30ms on edges"},
+    {"source": "meio", "start": 0.12, "end": 3.22,
+     "beat": "MEIO_A", "quote": "Ele lembra muito o cheiro de um marshmallow derretido.",
+     "reason": "First phrase, marshmallow analogy, pad 30ms"},
+    {"source": "meio", "start": 6.60, "end": 9.64,
+     "beat": "MEIO_B", "quote": "É leve pra usar no dia a dia e fixa bem na roupa",
+     "reason": "Second phrase after 3.4s gap trimmed, jump cut for rhythm, pad 30ms"},
+    {"source": "cta", "start": 0.66, "end": 3.68,
+     "beat": "CTA_A", "quote": "Muita gente fala que parece perfume importado caro.",
+     "reason": "First CTA phrase, pad 30ms"},
+    {"source": "cta", "start": 4.16, "end": 9.16,
+     "beat": "CTA_B", "quote": "Você prefere cheiro de baunilha ou de fruta? Me conta aqui embaixo. Agora!",
+     "reason": "Second CTA phrase (engagement), pad 30ms"}
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitles": null,
+  "total_duration_s": 23.42
+}

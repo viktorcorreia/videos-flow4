@@ -1,0 +1,17 @@
+{
+  "language_code": "por",
+  "language_probability": 0.7767283916473389,
+  "text": "[outro jingle]",
+  "words": [
+    {
+      "text": "[outro jingle]",
+      "start": 0.099,
+      "end": 4.36,
+      "type": "audio_event",
+      "speaker_id": "speaker_0",
+      "logprob": -0.10055426481697698
+    }
+  ],
+  "transcription_id": "gHv5hQagOOBpDVxx8pZy",
+  "audio_duration_secs": 8.096
+}

@@ -1,0 +1,209 @@
+{
+  "language_code": "por",
+  "language_probability": 0.9713859558105469,
+  "text": "Esse aqui absorve r\u00e1pido, hidrata e ainda \u00e9 hipoalerg\u00eanico. Minha pele agradeceu. [som de p\u00e1ssaro]",
+  "words": [
+    {
+      "text": "Esse",
+      "start": 0.239,
+      "end": 0.479,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.0013677061069756746
+    },
+    {
+      "text": " ",
+      "start": 0.479,
+      "end": 0.519,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -9.536738616588991e-07
+    },
+    {
+      "text": "aqui",
+      "start": 0.519,
+      "end": 0.939,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -9.536738616588991e-07
+    },
+    {
+      "text": " ",
+      "start": 0.939,
+      "end": 0.979,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -4.5298504119273275e-05
+    },
+    {
+      "text": "absorve",
+      "start": 0.979,
+      "end": 1.579,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -3.3037269531632774e-05
+    },
+    {
+      "text": " ",
+      "start": 1.579,
+      "end": 1.619,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -3.576278118089249e-07
+    },
+    {
+      "text": "r\u00e1pido,",
+      "start": 1.62,
+      "end": 2.139,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -2.741792822494712e-06
+    },
+    {
+      "text": " ",
+      "start": 2.139,
+      "end": 2.419,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -4.684815212385729e-05
+    },
+    {
+      "text": "hidrata",
+      "start": 2.419,
+      "end": 3.059,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -3.131740231765434e-05
+    },
+    {
+      "text": " ",
+      "start": 3.059,
+      "end": 3.559,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -3.576278118089249e-07
+    },
+    {
+      "text": "e",
+      "start": 3.559,
+      "end": 3.619,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -3.576278118089249e-07
+    },
+    {
+      "text": " ",
+      "start": 3.619,
+      "end": 3.719,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.1920928244535389e-07
+    },
+    {
+      "text": "ainda",
+      "start": 3.72,
+      "end": 3.959,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.1920928244535389e-07
+    },
+    {
+      "text": " ",
+      "start": 3.959,
+      "end": 4.019,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.1920928244535389e-07
+    },
+    {
+      "text": "\u00e9",
+      "start": 4.019,
+      "end": 4.039,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.1920928244535389e-07
+    },
+    {
+      "text": " ",
+      "start": 4.039,
+      "end": 4.079,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -3.302042750874534e-05
+    },
+    {
+      "text": "hipoalerg\u00eanico.",
+      "start": 4.079,
+      "end": 5.039,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.0003165225211281116
+    },
+    {
+      "text": " ",
+      "start": 5.039,
+      "end": 6.039,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.1444026313256472e-05
+    },
+    {
+      "text": "Minha",
+      "start": 6.039,
+      "end": 6.259,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -6.961783208225825e-06
+    },
+    {
+      "text": " ",
+      "start": 6.259,
+      "end": 6.299,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -9.179073458653875e-06
+    },
+    {
+      "text": "pele",
+      "start": 6.299,
+      "end": 6.48,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -9.179073458653875e-06
+    },
+    {
+      "text": " ",
+      "start": 6.48,
+      "end": 6.519,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.168244216387393e-05
+    },
+    {
+      "text": "agradeceu.",
+      "start": 6.519,
+      "end": 7.219,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.013956527347545489
+    },
+    {
+      "text": " ",
+      "start": 7.219,
+      "end": 7.219,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.32527148723602295
+    },
+    {
+      "text": "[som de p\u00e1ssaro]",
+      "start": 9.599,
+      "end": 9.939,
+      "type": "audio_event",
+      "speaker_id": "speaker_1",
+      "logprob": -0.09364430544604944
+    }
+  ],
+  "transcription_id": "SYCsm2Z0JMkWCiT7tw8o",
+  "audio_duration_secs": 10.0053125
+}

@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "sources": {
+    "video": "C:/Users/Usuario/Documents/videos-flow4/download/Woman_talking_about_perfume_202607200327.mp4"
+  },
+  "ranges": [
+    {"source": "video", "start": 0.60, "end": 7.70,
+     "beat": "NAO_SUBSTITUI", "quote": "Body splash não substitui perfume. Perfume tem óleo, esse é quase tudo água...",
+     "reason": "Full take, word-level pad, contrarian angle"}
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitles": null,
+  "total_duration_s": 7.10
+}

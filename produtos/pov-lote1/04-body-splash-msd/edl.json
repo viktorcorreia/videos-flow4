@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "sources": {
+    "c1": "C:/Users/Usuario/Documents/videos-flow4/produtos/pov-lote1/04-body-splash-msd/geracoes/pov_hero.mp4",
+    "c2": "C:/Users/Usuario/Documents/videos-flow4/produtos/pov-lote1/04-body-splash-msd/geracoes/pov_detalhe.mp4",
+    "c3": "C:/Users/Usuario/Documents/videos-flow4/produtos/pov-lote1/04-body-splash-msd/geracoes/pov_uso_crop.mp4"
+  },
+  "ranges": [
+    {
+      "source": "c1",
+      "start": 0.1,
+      "end": 5.99,
+      "beat": "HOOK-PRECO",
+      "quote": "",
+      "reason": "b-roll POV continuo, corte por duracao da locucao"
+    },
+    {
+      "source": "c2",
+      "start": 0.1,
+      "end": 8.0,
+      "beat": "SENSORIAL/OBJECAO",
+      "quote": "",
+      "reason": "b-roll POV continuo, corte por duracao da locucao"
+    },
+    {
+      "source": "c3",
+      "start": 0.1,
+      "end": 8.0,
+      "beat": "CTA",
+      "quote": "",
+      "reason": "b-roll POV continuo, corte por duracao da locucao"
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "total_duration_s": 21.69
+}

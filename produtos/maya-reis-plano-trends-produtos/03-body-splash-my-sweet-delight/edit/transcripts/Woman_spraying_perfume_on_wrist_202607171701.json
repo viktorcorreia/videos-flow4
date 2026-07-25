@@ -1,0 +1,177 @@
+{
+  "language_code": "por",
+  "language_probability": 0.9951552748680115,
+  "text": "Pele seca n\u00e3o segura. Hidrata antes, antes e borrifa duas vezes",
+  "words": [
+    {
+      "text": "Pele",
+      "start": 0.079,
+      "end": 0.319,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.00011734113741113106
+    },
+    {
+      "text": " ",
+      "start": 0.319,
+      "end": 0.479,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -7.664863369427621e-05
+    },
+    {
+      "text": "seca",
+      "start": 0.479,
+      "end": 0.839,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -7.664863369427621e-05
+    },
+    {
+      "text": " ",
+      "start": 0.839,
+      "end": 1.039,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.001328301033936441
+    },
+    {
+      "text": "n\u00e3o",
+      "start": 1.039,
+      "end": 1.24,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.001328301033936441
+    },
+    {
+      "text": " ",
+      "start": 1.24,
+      "end": 1.279,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.0003947432560380548
+    },
+    {
+      "text": "segura.",
+      "start": 1.279,
+      "end": 1.779,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.0004864176984743348
+    },
+    {
+      "text": " ",
+      "start": 1.779,
+      "end": 2.44,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.0002450642641633749
+    },
+    {
+      "text": "Hidrata",
+      "start": 2.44,
+      "end": 3.039,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.0001747096373167421
+    },
+    {
+      "text": " ",
+      "start": 3.039,
+      "end": 3.059,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -2.0265558760002023e-06
+    },
+    {
+      "text": "antes,",
+      "start": 3.059,
+      "end": 3.579,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -2.304710089144161e-06
+    },
+    {
+      "text": " ",
+      "start": 3.579,
+      "end": 3.899,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -3.182837463100441e-05
+    },
+    {
+      "text": "antes",
+      "start": 3.899,
+      "end": 4.38,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -3.182837463100441e-05
+    },
+    {
+      "text": " ",
+      "start": 4.38,
+      "end": 5.179,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.000296310376143083
+    },
+    {
+      "text": "e",
+      "start": 5.179,
+      "end": 5.279,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.000296310376143083
+    },
+    {
+      "text": " ",
+      "start": 5.279,
+      "end": 5.879,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.007672838866710663
+    },
+    {
+      "text": "borrifa",
+      "start": 5.879,
+      "end": 6.699,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.007705165073275566
+    },
+    {
+      "text": " ",
+      "start": 6.699,
+      "end": 6.739,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -2.8729025871143676e-05
+    },
+    {
+      "text": "duas",
+      "start": 6.739,
+      "end": 7.039,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -2.8729025871143676e-05
+    },
+    {
+      "text": " ",
+      "start": 7.039,
+      "end": 7.099,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -2.074220174108632e-05
+    },
+    {
+      "text": "vezes",
+      "start": 7.099,
+      "end": 7.639,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -2.074220174108632e-05
+    }
+  ],
+  "transcription_id": "M0HxmrAAfQuC7AZKpssF",
+  "audio_duration_secs": 10.0053125
+}

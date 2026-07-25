@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "sources": {
+    "b1": "C:/Users/Usuario/Documents/videos-flow4/mass-edit/hf_20260723_093836_14fea89a-ec8d-4ffa-8641-53f30e9bddd1.mp4",
+    "b2": "C:/Users/Usuario/Documents/videos-flow4/mass-edit/hf_20260723_095244_709da522-4ead-48af-be9a-293609e69ff2.mp4"
+  },
+  "ranges": [
+    {"source": "b1", "start": 1.0, "end": 7.5, "beat": "TESTE-A", "quote": "", "reason": "teste mecânico de render — range seguro, sem decisão editorial"},
+    {"source": "b2", "start": 1.0, "end": 7.5, "beat": "TESTE-B", "quote": "", "reason": "idem"}
+  ],
+  "grade": "none",
+  "overlays": [],
+  "total_duration_s": 13.0
+}

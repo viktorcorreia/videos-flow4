@@ -1,0 +1,67 @@
+LEGENDAS E HASHTAGS — lote mass-edit
+Colar direto no TikTok Shop. Uma legenda por video, sem markdown.
+Regra: 1 frase com caso de uso concreto + pergunta que pede resposta.
+Hashtags: 1 de categoria ampla + 2-3 especificas do produto + 1 de contexto de uso.
+
+===========================================================
+final_scarpin.mp4  (20,2s)
+===========================================================
+LEGENDA:
+esse scarpin de tornozeleira segura o pe no trabalho e no jantar sem escapar no calcanhar, qual cor voce usaria primeiro?
+
+HASHTAGS:
+#scarpin #saltobloco #sapatofeminino #lookdetrabalho #achadinhosdotiktok
+
+VARIACAO (testar como plano B):
+descobri que salto bloco com tornozeleira nao escapa do calcanhar, mudou meu dia de trabalho, voce ja tinha reparado nisso?
+#scarpin #saltobloco #sapatoconfortavel #lookdetrabalho
+
+===========================================================
+final_mule.mp4  (15,2s)
+===========================================================
+LEGENDA:
+mule branco de tira cruzada pra rodar o dia inteiro sem apertar o peito do pe, voce usaria com calca ou com vestido?
+
+HASHTAGS:
+#mule #sapatoconfortavel #lookclean #sapatofeminino #achadinhosdotiktok
+
+VARIACAO (testar como plano B):
+mule branco combina com tudo e nao aperta o peito do pe, entao pra que sofrer de sandalia apertada? calca ou vestido?
+#mule #lookclean #sapatobranco #sapatoconfortavel
+
+===========================================================
+final_slouchy.mp4  (16,4s)
+===========================================================
+LEGENDA:
+bota slouchy de cano dobrado feita pra perna fina que cansou de cano sobrando reto, voce usaria com saia ou por dentro da calca?
+
+HASHTAGS:
+#botaslouchy #botafeminina #botacanoalto #lookdeinverno #pernafina
+
+VARIACAO (testar como plano B):
+se voce tem perna fina e ja desistiu de bota de cano reto, o modelo slouchy foi feito exatamente pra isso, saia ou por dentro da calca?
+#botaslouchy #pernafina #botafeminina #lookdeinverno
+
+===========================================================
+final_caramelo.mp4  (14,4s)
+===========================================================
+LEGENDA:
+bota caramelo de bico fino que alonga a perna de quem e baixinha, com que look voce usaria?
+
+HASHTAGS:
+#botacaramelo #botacanoalto #lookbaixinha #botafeminina #achadinhosdotiktok
+
+VARIACAO (testar como plano B):
+bico fino alonga a perna e isso salva quem e baixinha, foi a unica bota que ficou boa em mim, com que look voce usaria?
+#botacaramelo #lookbaixinha #botabicofino #botafeminina
+
+===========================================================
+NOTAS
+===========================================================
+- Sem preco nem numeracao nas locucoes: nao havia ficha dos produtos.
+  Com preco/numeracao real, regravo a locucao e remonto em um comando.
+- Termos proibidos no formato (soam anuncio e derrubam alcance):
+  corre, precinho, link na sacolinha, ultimas unidades, imperdivel.
+- Nao usar legenda queimada no video. A legenda vive na descricao do post.
+- Cada video tem uma VARIACAO: se a principal nao performar em ~24h,
+  repostar com a variacao antes de descartar o produto.

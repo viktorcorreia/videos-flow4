@@ -11,6 +11,30 @@
 *.webm
 *.m4v
 
+# imagens (frames, avatares, referências de produto)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.bmp
+*.tiff
+
+# áudio (TTS, trilhas, narrações)
+*.mp3
+*.wav
+*.aac
+*.flac
+*.ogg
+*.m4a
+
+# pacotes / entregáveis
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+
 # lixo comum
 node_modules/
 __pycache__/

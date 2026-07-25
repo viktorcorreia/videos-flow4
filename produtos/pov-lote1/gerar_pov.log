@@ -1,0 +1,118 @@
+[01:33:41] 04-body-splash-msd/pov_hero ok=True 61s
+[veo] modelo=veo-3.1-fast-generate-001 aspect=9:16 dur=8s audio=True res=720p resize=crop quality=default samples=1 modo=i2v (produto.png)
+[veo] negativePrompt: membros deformados, dedos extras, maos distorcidas, mao duplicada, mao fantasma,
+[gcp] 403 na conta radiant-oven-391916 (quota_exceeded) — tentando fallback...
+[gcp] trocando para: massive-dryad-497003-h2 (SA: vertex-sa-vikatohugo.json)
+[veo] operation: projects/massive-dryad-497003-h2/locations/us-central1/publishers/google/models/veo-3.1-fast-generate-001/operations/5b70070f-5021-4fe9-a81c-0fae21fb23d0  (poll...)
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] OK -> C:\Users\Usuario\Documents\videos-flow4\produtos\pov-lote1\04-body-splash-msd\geracoes\pov_hero.mp4 (2454 KB)
+[veo] custo estimado: ~$0.84
+
+[01:34:42] 04-body-splash-msd/pov_detalhe ok=True 62s
+[veo] modelo=veo-3.1-fast-generate-001 aspect=9:16 dur=8s audio=True res=720p resize=crop quality=default samples=1 modo=i2v (produto.png)
+[veo] negativePrompt: membros deformados, dedos extras, maos distorcidas, mao duplicada, mao fantasma,
+[gcp] 403 na conta radiant-oven-391916 (quota_exceeded) — tentando fallback...
+[gcp] trocando para: massive-dryad-497003-h2 (SA: vertex-sa-vikatohugo.json)
+[veo] operation: projects/massive-dryad-497003-h2/locations/us-central1/publishers/google/models/veo-3.1-fast-generate-001/operations/99ccbaad-955b-4eae-907e-d454d64ea33f  (poll...)
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] OK -> C:\Users\Usuario\Documents\videos-flow4\produtos\pov-lote1\04-body-splash-msd\geracoes\pov_detalhe.mp4 (2899 KB)
+[veo] custo estimado: ~$0.84
+
+[01:35:44] 04-body-splash-msd/pov_uso ok=True 61s
+[veo] modelo=veo-3.1-fast-generate-001 aspect=9:16 dur=8s audio=True res=720p resize=crop quality=default samples=1 modo=i2v (produto.png)
+[veo] negativePrompt: membros deformados, dedos extras, maos distorcidas, mao duplicada, mao fantasma,
+[gcp] 403 na conta radiant-oven-391916 (quota_exceeded) — tentando fallback...
+[gcp] trocando para: massive-dryad-497003-h2 (SA: vertex-sa-vikatohugo.json)
+[veo] operation: projects/massive-dryad-497003-h2/locations/us-central1/publishers/google/models/veo-3.1-fast-generate-001/operations/7bc6cf2a-4b06-49fb-b1c5-b6a87e488e5b  (poll...)
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] OK -> C:\Users\Usuario\Documents\videos-flow4\produtos\pov-lote1\04-body-splash-msd\geracoes\pov_uso.mp4 (3048 KB)
+[veo] custo estimado: ~$0.84
+
+[01:36:45] 07-rubyrose-gloss/pov_hero ok=True 61s
+[veo] modelo=veo-3.1-fast-generate-001 aspect=9:16 dur=8s audio=True res=720p resize=crop quality=default samples=1 modo=i2v (produto.jpg)
+[veo] negativePrompt: membros deformados, dedos extras, maos distorcidas, mao duplicada, mao fantasma,
+[gcp] 403 na conta radiant-oven-391916 (quota_exceeded) — tentando fallback...
+[gcp] trocando para: massive-dryad-497003-h2 (SA: vertex-sa-vikatohugo.json)
+[veo] operation: projects/massive-dryad-497003-h2/locations/us-central1/publishers/google/models/veo-3.1-fast-generate-001/operations/f1264cdc-b0bb-4af5-a51a-b4545bc70a52  (poll...)
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] OK -> C:\Users\Usuario\Documents\videos-flow4\produtos\pov-lote1\07-rubyrose-gloss\geracoes\pov_hero.mp4 (2609 KB)
+[veo] custo estimado: ~$0.84
+
+[01:37:46] 07-rubyrose-gloss/pov_detalhe ok=True 61s
+[veo] modelo=veo-3.1-fast-generate-001 aspect=9:16 dur=8s audio=True res=720p resize=crop quality=default samples=1 modo=i2v (produto.jpg)
+[veo] negativePrompt: membros deformados, dedos extras, maos distorcidas, mao duplicada, mao fantasma,
+[gcp] 403 na conta radiant-oven-391916 (quota_exceeded) — tentando fallback...
+[gcp] trocando para: massive-dryad-497003-h2 (SA: vertex-sa-vikatohugo.json)
+[veo] operation: projects/massive-dryad-497003-h2/locations/us-central1/publishers/google/models/veo-3.1-fast-generate-001/operations/93a83d69-10f0-422f-809e-318e9a19fb12  (poll...)
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] OK -> C:\Users\Usuario\Documents\videos-flow4\produtos\pov-lote1\07-rubyrose-gloss\geracoes\pov_detalhe.mp4 (2570 KB)
+[veo] custo estimado: ~$0.84
+
+[01:38:58] 07-rubyrose-gloss/pov_swatch ok=True 72s
+[veo] modelo=veo-3.1-fast-generate-001 aspect=9:16 dur=8s audio=True res=720p resize=crop quality=default samples=1 modo=i2v (produto.jpg)
+[veo] negativePrompt: membros deformados, dedos extras, maos distorcidas, mao duplicada, mao fantasma,
+[gcp] 403 na conta radiant-oven-391916 (quota_exceeded) — tentando fallback...
+[gcp] trocando para: massive-dryad-497003-h2 (SA: vertex-sa-vikatohugo.json)
+[veo] operation: projects/massive-dryad-497003-h2/locations/us-central1/publishers/google/models/veo-3.1-fast-generate-001/operations/b1c7b550-02a2-416b-8fe2-009ef3f7b477  (poll...)
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] OK -> C:\Users\Usuario\Documents\videos-flow4\produtos\pov-lote1\07-rubyrose-gloss\geracoes\pov_swatch.mp4 (4123 KB)
+[veo] custo estimado: ~$0.84
+
+[01:40:00] 08-kiss-cilios/pov_hero ok=True 62s
+[veo] modelo=veo-3.1-fast-generate-001 aspect=9:16 dur=8s audio=True res=720p resize=crop quality=default samples=1 modo=i2v (produto.jpg)
+[veo] negativePrompt: membros deformados, dedos extras, maos distorcidas, mao duplicada, mao fantasma,
+[gcp] 403 na conta radiant-oven-391916 (quota_exceeded) — tentando fallback...
+[gcp] trocando para: massive-dryad-497003-h2 (SA: vertex-sa-vikatohugo.json)
+[veo] operation: projects/massive-dryad-497003-h2/locations/us-central1/publishers/google/models/veo-3.1-fast-generate-001/operations/d249202f-e80c-4a27-99e7-0be725e3b6a7  (poll...)
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] OK -> C:\Users\Usuario\Documents\videos-flow4\produtos\pov-lote1\08-kiss-cilios\geracoes\pov_hero.mp4 (3482 KB)
+[veo] custo estimado: ~$0.84
+
+[01:41:03] 08-kiss-cilios/pov_detalhe ok=True 63s
+[veo] modelo=veo-3.1-fast-generate-001 aspect=9:16 dur=8s audio=True res=720p resize=crop quality=default samples=1 modo=i2v (produto.jpg)
+[veo] negativePrompt: membros deformados, dedos extras, maos distorcidas, mao duplicada, mao fantasma,
+[gcp] 403 na conta radiant-oven-391916 (quota_exceeded) — tentando fallback...
+[gcp] trocando para: massive-dryad-497003-h2 (SA: vertex-sa-vikatohugo.json)
+[veo] operation: projects/massive-dryad-497003-h2/locations/us-central1/publishers/google/models/veo-3.1-fast-generate-001/operations/692bc797-0d0c-4c6d-a2d1-91b47ea51d2f  (poll...)
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] OK -> C:\Users\Usuario\Documents\videos-flow4\produtos\pov-lote1\08-kiss-cilios\geracoes\pov_detalhe.mp4 (4227 KB)
+[veo] custo estimado: ~$0.84
+
+[01:42:07] 08-kiss-cilios/pov_uso ok=True 64s
+[veo] modelo=veo-3.1-fast-generate-001 aspect=9:16 dur=8s audio=True res=720p resize=crop quality=default samples=1 modo=i2v (produto.jpg)
+[veo] negativePrompt: membros deformados, dedos extras, maos distorcidas, mao duplicada, mao fantasma,
+[gcp] 403 na conta radiant-oven-391916 (quota_exceeded) — tentando fallback...
+[gcp] trocando para: massive-dryad-497003-h2 (SA: vertex-sa-vikatohugo.json)
+[veo] operation: projects/massive-dryad-497003-h2/locations/us-central1/publishers/google/models/veo-3.1-fast-generate-001/operations/c4b8ea2d-6995-4b1f-bd4d-df4ac4173176  (poll...)
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] ...gerando
+[veo] OK -> C:\Users\Usuario\Documents\videos-flow4\produtos\pov-lote1\08-kiss-cilios\geracoes\pov_uso.mp4 (3546 KB)
+[veo] custo estimado: ~$0.84
+

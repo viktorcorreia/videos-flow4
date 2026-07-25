@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sources": {
+    "Woman_talking_about_perfume_202607171857": "C:/Users/Usuario/Documents/videos-flow4/Woman_talking_about_perfume_202607171857.mp4",
+    "Woman_talking_and_holding_bottle_202607171857": "C:/Users/Usuario/Documents/videos-flow4/Woman_talking_and_holding_bottle_202607171857.mp4",
+    "Woman_holding_bottle_speaking_1080p_202607171744": "C:/Users/Usuario/Documents/videos-flow4/Woman_holding_bottle_speaking_1080p_202607171744.mp4"
+  },
+  "ranges": [
+    {"source": "Woman_talking_about_perfume_202607171857", "start": 0.63, "end": 7.69,
+     "beat": "HOOK", "quote": "Body splash não substitui perfume. Perfume tem óleo, esse é quase tudo água. Se você quer o que dura, não compra esse",
+     "reason": "Myth-bust honesto (bate com o risco/não-fazer do produto: não prometer fixação milagrosa) — gera curiosidade logo de cara."},
+    {"source": "Woman_talking_and_holding_bottle_202607171857", "start": 0.03, "end": 7.91,
+     "beat": "ROTINA/DICA", "quote": "Meu cheiro de todo dia. Saio do banho, hidratante, borrifo, visto a roupa por cima, o tecido segura mais que a pele",
+     "reason": "Responde o hook: não é pra durar na pele, é rotina + dica real (tecido segura mais)."},
+    {"source": "Woman_holding_bottle_speaking_1080p_202607171744", "start": 7.89, "end": 9.99,
+     "beat": "CTA", "quote": "É a mesma construção. Comenta aí qual você acha que é",
+     "reason": "Fecha com CTA de engajamento, tirado da cauda do clipe (o clipe inteiro já foi usado em outra cena, evitar duplicar o corte completo)."}
+  ],
+  "grade": "warm_cinematic",
+  "overlays": [],
+  "subtitles": "edit/master_scene2.srt",
+  "total_duration_s": 16.84
+}

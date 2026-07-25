@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sources": {
+    "Woman_spraying_body_splash_1080p_202607171738": "C:\\Users\\Usuario\\Documents\\videos-flow4\\produtos\\lys-produtos\\01-body-splash-my-sweet-delight\\geracoes\\Woman_spraying_body_splash_1080p_202607171738.mp4",
+    "Woman_holding_bottle_speaking_1080p_202607171744": "C:\\Users\\Usuario\\Documents\\videos-flow4\\produtos\\lys-produtos\\01-body-splash-my-sweet-delight\\geracoes\\Woman_holding_bottle_speaking_1080p_202607171744.mp4"
+  },
+  "ranges": [
+    {"source": "Woman_spraying_body_splash_1080p_202607171738", "start": 0.05, "end": 9.93,
+     "beat": "HOOK+DICA", "quote": "Body splash não fixa. E o problema não é o body splash, é pele seca. Hidrata antes, borrifa, espera secar, borrifa de novo. Esse abre em lichi e bergamota e fecha em cedro. Cedro é o que segura. Me conta se durou",
+     "reason": "Mito + dica de uso funciona como hook, prende atenção logo de cara."},
+    {"source": "Woman_holding_bottle_speaking_1080p_202607171744", "start": 0.05, "end": 9.99,
+     "beat": "COMPARACAO+CTA", "quote": "Esse aqui cheira igual um importado de R$ 2.000. Não vou falar qual é, mas quem usa vai saber na hora. Lichia e bergamota em cima, rosa e peônia no meio, cedro embaixo. É a mesma construção. Comenta aí qual você acha que é",
+     "reason": "Comparação de valor percebido como payoff, fecha com CTA de comentário para engajamento."}
+  ],
+  "grade": "warm_cinematic",
+  "overlays": [],
+  "subtitles": "edit/master.srt",
+  "total_duration_s": 19.82
+}

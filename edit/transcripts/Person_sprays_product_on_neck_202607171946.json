@@ -1,0 +1,193 @@
+{
+  "language_code": "eng",
+  "language_probability": 0.9207412600517273,
+  "text": "That warm vanilla scent. [spray] Just spray it on. It absorbs instantly.",
+  "words": [
+    {
+      "text": "That",
+      "start": 0.199,
+      "end": 0.539,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -7.271740287251305e-06
+    },
+    {
+      "text": " ",
+      "start": 0.539,
+      "end": 0.62,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -2.3841855067985307e-07
+    },
+    {
+      "text": "warm",
+      "start": 0.62,
+      "end": 0.899,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -2.3841855067985307e-07
+    },
+    {
+      "text": " ",
+      "start": 0.899,
+      "end": 1.0,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.00011240804451517761
+    },
+    {
+      "text": "vanilla",
+      "start": 1.0,
+      "end": 1.459,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.00011240804451517761
+    },
+    {
+      "text": " ",
+      "start": 1.459,
+      "end": 1.499,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -2.3841830625315197e-06
+    },
+    {
+      "text": "scent.",
+      "start": 1.5,
+      "end": 1.939,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.00024719865920512046
+    },
+    {
+      "text": " ",
+      "start": 1.939,
+      "end": 2.539,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.005233753472566605
+    },
+    {
+      "text": "[spray]",
+      "start": 2.539,
+      "end": 3.679,
+      "type": "audio_event",
+      "speaker_id": "speaker_0",
+      "logprob": -0.41238940382997197
+    },
+    {
+      "text": " ",
+      "start": 3.679,
+      "end": 4.119,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -5.483612312673358e-06
+    },
+    {
+      "text": "Just",
+      "start": 4.119,
+      "end": 4.259,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -5.483612312673358e-06
+    },
+    {
+      "text": " ",
+      "start": 4.259,
+      "end": 4.299,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.5497195136049413e-06
+    },
+    {
+      "text": "spray",
+      "start": 4.299,
+      "end": 4.539,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.5497195136049413e-06
+    },
+    {
+      "text": " ",
+      "start": 4.539,
+      "end": 4.579,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -2.3841855067985307e-07
+    },
+    {
+      "text": "it",
+      "start": 4.579,
+      "end": 4.659,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -2.3841855067985307e-07
+    },
+    {
+      "text": " ",
+      "start": 4.659,
+      "end": 4.739,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": 0.0
+    },
+    {
+      "text": "on.",
+      "start": 4.739,
+      "end": 4.94,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.002239199665685495
+    },
+    {
+      "text": " ",
+      "start": 4.94,
+      "end": 5.119,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": 0.0
+    },
+    {
+      "text": "It",
+      "start": 5.119,
+      "end": 5.179,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 5.179,
+      "end": 5.219,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -2.288792165927589e-05
+    },
+    {
+      "text": "absorbs",
+      "start": 5.219,
+      "end": 5.719,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -2.288792165927589e-05
+    },
+    {
+      "text": " ",
+      "start": 5.719,
+      "end": 5.779,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -2.3841855067985307e-07
+    },
+    {
+      "text": "instantly.",
+      "start": 5.779,
+      "end": 6.359,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.03132665753362005
+    }
+  ],
+  "transcription_id": "PolAHcsuhYGWjIigNV1j",
+  "audio_duration_secs": 8.0
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sources": {
+    "lys": "C:/Users/Usuario/Documents/videos-flow4/1-lys.mp4",
+    "hidrabene": "C:/Users/Usuario/Documents/videos-flow4/Woman_applying_Hidrabene_FPS_70_202607200240.mp4",
+    "sunscreen": "C:/Users/Usuario/Documents/videos-flow4/Woman_holding_sunscreen_tube_1080p_202607200240.mp4"
+  },
+  "ranges": [
+    {"source": "lys", "start": 1.57, "end": 4.15,
+     "beat": "HOOK_A", "quote": "Cansei de protetor que deixa a pele brilhando e",
+     "reason": "Keep intro, cut right before false start of 'não some com as,'"},
+    {"source": "lys", "start": 4.93, "end": 6.30,
+     "beat": "HOOK_B", "quote": "não some com as manchas.",
+     "reason": "Clean repeat after stutter, removes false start 4.18-4.90"},
+    {"source": "hidrabene", "start": 0.0, "end": 8.00,
+     "beat": "BENEFIT", "quote": "Esse aqui absorve rápido, hidrata e ainda é hipoalergênico. Minha pele agradeceu.",
+     "reason": "Full clip, trimmed tail dead air (2.4s silence + bird sound) after speech ends at 7.22, held smile to 8.0"},
+    {"source": "sunscreen", "start": 2.20, "end": 7.90,
+     "beat": "CTA", "quote": "Troca de protetor hoje e sente a diferença já na primeira semana de uso.",
+     "reason": "Trimmed 2.6s dead-air lead-in, kept 400ms natural pre-roll before speech, small tail pad after 'uso.'"}
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitles": null,
+  "total_duration_s": 17.65
+}

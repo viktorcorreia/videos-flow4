@@ -1,0 +1,145 @@
+{
+  "language_code": "por",
+  "language_probability": 0.6679357290267944,
+  "text": "P\u00f4, gente. Faz assim e me conta se durou",
+  "words": [
+    {
+      "text": "P\u00f4,",
+      "start": 0.079,
+      "end": 0.199,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.2054840519655651
+    },
+    {
+      "text": " ",
+      "start": 0.199,
+      "end": 0.279,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.3351351299206726e-05
+    },
+    {
+      "text": "gente.",
+      "start": 0.28,
+      "end": 0.659,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.0038922776035785014
+    },
+    {
+      "text": " ",
+      "start": 0.659,
+      "end": 0.659,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.00019178935326635838
+    },
+    {
+      "text": "Faz",
+      "start": 3.139,
+      "end": 3.379,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.00019178935326635838
+    },
+    {
+      "text": " ",
+      "start": 3.379,
+      "end": 3.439,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -7.152555099310121e-07
+    },
+    {
+      "text": "assim",
+      "start": 3.439,
+      "end": 3.879,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -7.152555099310121e-07
+    },
+    {
+      "text": " ",
+      "start": 3.879,
+      "end": 4.44,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.9073468138230965e-06
+    },
+    {
+      "text": "e",
+      "start": 4.44,
+      "end": 4.539,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.9073468138230965e-06
+    },
+    {
+      "text": " ",
+      "start": 4.539,
+      "end": 4.559,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": 0.0
+    },
+    {
+      "text": "me",
+      "start": 4.559,
+      "end": 4.759,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 4.759,
+      "end": 4.819,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -5.519237674889155e-05
+    },
+    {
+      "text": "conta",
+      "start": 4.819,
+      "end": 5.619,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -5.519237674889155e-05
+    },
+    {
+      "text": " ",
+      "start": 5.619,
+      "end": 5.799,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -3.4570634852570947e-06
+    },
+    {
+      "text": "se",
+      "start": 5.799,
+      "end": 5.879,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -3.4570634852570947e-06
+    },
+    {
+      "text": " ",
+      "start": 5.879,
+      "end": 5.979,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -2.825220326485578e-05
+    },
+    {
+      "text": "durou",
+      "start": 5.98,
+      "end": 6.339,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.7189740469802926e-05
+    }
+  ],
+  "transcription_id": "6CJgkCdPSpmnM3tM8cbm",
+  "audio_duration_secs": 8.0
+}

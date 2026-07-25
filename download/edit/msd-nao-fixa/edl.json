@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "sources": {
+    "spray": "C:/Users/Usuario/Documents/videos-flow4/download/Woman_spraying_body_splash_202607200327_2.mp4"
+  },
+  "ranges": [
+    {"source": "spray", "start": 0.08, "end": 9.98,
+     "beat": "FULL", "quote": "Body splash não fixa... Cedro é o que segura. Me conta se durou",
+     "reason": "Take completo, sem gaguejo, detalhe fragrância (lichi/bergamota/cedro) integrado, CTA natural"}
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitles": null,
+  "total_duration_s": 9.90
+}

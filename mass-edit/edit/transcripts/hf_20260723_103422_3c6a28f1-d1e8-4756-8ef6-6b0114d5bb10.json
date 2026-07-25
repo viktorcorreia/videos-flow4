@@ -1,0 +1,17 @@
+{
+  "language_code": "eng",
+  "language_probability": 0.43392619490623474,
+  "text": "[on-hold jingle]",
+  "words": [
+    {
+      "text": "[on-hold jingle]",
+      "start": 0.099,
+      "end": 7.799,
+      "type": "audio_event",
+      "speaker_id": "speaker_0",
+      "logprob": -0.15269957120783925
+    }
+  ],
+  "transcription_id": "aN3zIoxRaNgkwHl1SIGY",
+  "audio_duration_secs": 8.096
+}

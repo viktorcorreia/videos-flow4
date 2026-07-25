@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "sources": {
+    "c1": "C:/Users/Usuario/Documents/videos-flow4/produtos/pov-lote2-sapatos/14-bota-domidona/geracoes/pov_hero.mp4",
+    "c2": "C:/Users/Usuario/Documents/videos-flow4/produtos/pov-lote2-sapatos/14-bota-domidona/geracoes/pov_detalhe.mp4",
+    "c3": "C:/Users/Usuario/Documents/videos-flow4/produtos/pov-lote2-sapatos/14-bota-domidona/geracoes/pov_uso.mp4"
+  },
+  "ranges": [
+    {
+      "source": "c1",
+      "start": 1.0,
+      "end": 8.0,
+      "beat": "HOOK-PRECO",
+      "quote": "",
+      "reason": "b-roll POV continuo, corte por duracao da locucao"
+    },
+    {
+      "source": "c2",
+      "start": 1.0,
+      "end": 8.0,
+      "beat": "SENSORIAL/OBJECAO",
+      "quote": "",
+      "reason": "b-roll POV continuo, corte por duracao da locucao"
+    },
+    {
+      "source": "c3",
+      "start": 0.1,
+      "end": 6.11,
+      "beat": "CTA",
+      "quote": "",
+      "reason": "b-roll POV continuo, corte por duracao da locucao"
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "total_duration_s": 20.01
+}

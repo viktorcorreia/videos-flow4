@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sources": {
+    "cena1": "C:/Users/Usuario/Documents/videos-flow4/download/Cena_inicial_-_2026-07-20_202607200410.mp4",
+    "cena2": "C:/Users/Usuario/Documents/videos-flow4/download/Cena_inicial_-_2026-07-20_202607200410_2.mp4",
+    "cena3": "C:/Users/Usuario/Documents/videos-flow4/download/Cena_inicial_-_2026-07-20_202607200410_3.mp4"
+  },
+  "ranges": [
+    {"source": "cena1", "start": 0.17, "end": 4.06,
+     "beat": "HOOK", "quote": "Gente, achei o segredo pra ficar com aquele cheirinho de banho tomado o dia todo sem",
+     "reason": "Frase completa do clipe, cortado silêncio inicial (~50ms pad), mantido tail (~80ms pad)"},
+    {"source": "cena2", "start": 0.05, "end": 4.04,
+     "beat": "BENEFÍCIO", "quote": "Aplico no pulso e onde der. Não é forte, é puro frescor",
+     "reason": "Frase completa, cortado silêncio inicial (~70ms pad), mantido tail (~80ms pad)"},
+    {"source": "cena3", "start": 0.50, "end": 4.06,
+     "beat": "CTA", "quote": "Deixei o link pra vocês aqui na bio ou na sacolinha. Corre lá",
+     "reason": "Frase completa, cortado silêncio inicial (~60ms pad), mantido tail (~80ms pad)"}
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitles": null,
+  "total_duration_s": 11.94
+}
